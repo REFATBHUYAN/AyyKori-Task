@@ -18,17 +18,17 @@ Welcome to **Dynamic Playground** — an interactive web app featuring a **Parti
 
 ## 🚀 Demo
 
-Check out the live demo: [Live Demo](#)
+Check out the live demo: [Live Demo](https://ayykoritask.netlify.app/)
 
 ---
 
 ## 📸 Screenshots
 
 ### 1. Recursive Partitioning
-![Recursive Partitioning Screenshot](https://via.placeholder.com/600x300?text=Partitioning+Screenshot)
+![Recursive Partitioning Screenshot](https://github.com/REFATBHUYAN/AyyKori-Task/blob/main/public/image%20(7).png)
 
 ### 2. Alphabet Tile Iteration
-![Alphabet Tiles Screenshot](https://via.placeholder.com/600x300?text=Alphabet+Tiles+Screenshot)
+![Alphabet Tiles Screenshot](https://github.com/REFATBHUYAN/AyyKori-Task/blob/main/public/image%20(8).png)
 
 ---
 
@@ -37,7 +37,6 @@ Check out the live demo: [Live Demo](#)
 This project is powered by modern web technologies:
 
 - **Frontend**: React.js, Tailwind CSS
-- **Backend**: Node.js (optional, if applicable)
 - **Routing**: React Router
 - **Partitioning**: React Split Pane, React Resizable
 - **Styles**: Tailwind CSS for modern, responsive design
@@ -50,5 +49,7 @@ Follow these simple steps to get started:
 
 1. **Clone the repo**:
    ```bash
-   git clone https://github.com/yourusername/dynamic-playground.git
-   cd dynamic-playground
+   git clone https://github.com/REFATBHUYAN/AyyKori-Task
+   cd ayykori-task
+   npm install 
+   npm run dev
